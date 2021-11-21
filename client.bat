@@ -1,1 +1,0 @@
-start "" "Release\Lab_1.exe" --type client
